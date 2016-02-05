@@ -24,3 +24,14 @@ O projeto é medido em unidades de tempo chamadas Pomodoro. O pomodoro é uma me
 O Pomolone exige que você defina o número mínimos de Pomodoros Semanais.
 
 Um ciclo pomolone é considerado conjunto de pomodoros para executar uma dada atividade. Temos sucesso quando executamos um ciclo concluindo a atividade. Quando não conseguimos executar um ciclo pomodoro temos uma falha impeditiva. Deve-se analisar a glanularidade das atividades para saber o que ocasionou tal falha. Quando temos uma sequencia de ciclos com sucesso, devemos contar e trabalhar sempre com o intuito de quebrar o recorde anterior. Não exige-se prazo, exige-se compromisso.
+
+
+## Metodos de broadcasting
+
+* Boobox
+* Flanelografo da UFC e universidade particulares(FFB)
+* Twitter, Facebook
+* Grupo Java CE
+* Visitar salas de aula
+* Midia Impressa
+* Marketing de Guerrilha
